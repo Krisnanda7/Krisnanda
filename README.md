@@ -2,12 +2,14 @@
 
 You can call me **Krisna** — a passionate and curious tech enthusiast currently pursuing my studies as a university student. My main focus is on **Front-End Development**, and I'm also exploring the world of **Full-Stack Development**.
 
+
 ## 👨‍💻 About Me
 
 - 🎓 I'm a student with a strong interest in building clean, user-friendly web interfaces.
 - 🌱 Currently learning modern web technologies like **Laravel**, **React**, **Next.js**, and **Tailwind CSS**.
 - 🚀 Open to collaboration on web-based projects, especially in front-end or full-stack roles.
 - 💡 Always looking to improve and keep up with the latest tech trends.
+
 
 ## 🔧 Tech Stack
 
@@ -25,6 +27,7 @@ You can call me **Krisna** — a passionate and curious tech enthusiast currentl
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## 📫 How to reach me
 
