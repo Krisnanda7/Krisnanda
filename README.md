@@ -19,8 +19,8 @@ You can call me **Krisna** — a passionate and curious tech enthusiast currentl
 ## 📫 How to reach me
 
 - Email : baguskrisna424@gmail.com
-- Instagram : @krisnanda_mas
-- Linkedin : linkedin.com/in/krisnanda-mas
+- Instagram : https://www.instagram.com/krisnanda_mas/
+- Linkedin : https://www.linkedin.com/in/krisnanda-mas
 - Portofolio : https://krisnanda-portofolio.vercel.app/
 
 ---
