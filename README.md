@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm I Dewa Gede Mas Bagus Krisnanda
 
-You can call me **Krisna** — a passionate and curious tech enthusiast currently pursuing my studies as a university student. My main focus is on **Front-End Development**, and I'm also exploring the world of **Full-Stack Development**.
+You can call me **Krisnanda** — a passionate and curious tech enthusiast currently pursuing my studies as a university student. My main focus is on **Front-End Development**, and I'm also exploring the world of **Full-Stack Development**.
 
 
 ## 👨‍💻 About Me
